@@ -1,0 +1,427 @@
+backlash: 0.15
+base_chamfer: 0.4
+bevel_profile: flat_top_ramped_underside
+cone_distance: 21.213203435596423
+depth: 6
+diameter: 30.0
+diameter_outer: 31.060660171779823
+diameter_root: 28.674174785275223
+directory: parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+face_width: 9.942231501812277
+id: oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+id_oobb: oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+kwargs:
+  backlash: 0.15
+  base_chamfer: 0.4
+  bevel_profile: flat_top_ramped_underside
+  cone_distance: 21.213203435596423
+  depth: 6
+  diameter: 30.0
+  diameter_outer: 31.060660171779823
+  diameter_root: 28.674174785275223
+  face_width: 9.942231501812277
+  filter: ''
+  generate_stl: false
+  mate_teeth: 40
+  modes:
+  - 3dpr
+  module: 0.75
+  navigation: false
+  oobb_name: gear_little_bevel_style
+  oomp_description_extra: 6_depth
+  oomp_description_main: gear_little_bevel_style_30_0_diameter
+  oomp_mode: project
+  oomp_run: false
+  overwrite: true
+  pitch_angle: 45
+  pressure_angle: 20
+  scale: little
+  shaft_angle: 90
+  style: bevel
+  teeth: 40
+  typ: fast
+  type: C:\gh\oomlout_oobb_gear_version_5_gear_little_bevel_style
+  underside_angle: 45
+mate_teeth: 40
+module: 0.75
+name: Oobb Part Gear Little Scale 2 Diameter 40 Teeth Bevel Style 6 Mm Depth
+name_proper: Oobb Part Gear Little Scale 2 Diameter 40 Teeth Bevel Style 6 Mm Depth
+notes: Straight 1:1 bevel pair. Mate with identical scale, tooth count and depth.
+  Shared pitch-cone apex; see examples/bevel_gear_90_degree_pair.scad.
+oobb_details:
+  backlash: 0.15
+  base_chamfer: 0.4
+  bevel_profile: flat_top_ramped_underside
+  cone_distance: 21.213203435596423
+  depth: 6
+  diameter: 30.0
+  diameter_outer: 31.060660171779823
+  diameter_root: 28.674174785275223
+  face_width: 9.942231501812277
+  mate_teeth: 40
+  module: 0.75
+  oobb_name: gear_little_bevel_style
+  pitch_angle: 45
+  pressure_angle: 20
+  scale: little
+  shaft_angle: 90
+  style: bevel
+  teeth: 40
+  underside_angle: 45
+oobb_name: gear_little_bevel_style
+pitch_angle: 45
+pressure_angle: 20
+project_name: C:\gh\oomlout_oobb_gear_version_5
+scale: little
+shaft_angle: 90
+style: bevel
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: gear
+taxonomy_4: little_scale
+taxonomy_5: 2_diameter
+taxonomy_6: 40_teeth
+taxonomy_7: bevel_style
+taxonomy_8: 6_mm_depth
+taxonomy_9: ''
+teeth: 40
+thing:
+  backlash: 0.15
+  base_chamfer: 0.4
+  bevel_profile: flat_top_ramped_underside
+  classification: oobb
+  color: ''
+  components:
+  - inclusion: all
+    objects:
+    - - color: ''
+        include_mode: true
+        inclusion: all
+        m: ''
+        module: oobb_gear_bevel_raw
+        module_kwargs:
+          anchor: center
+          backlash: 0.15
+          base_chamfer: 0.4
+          clearance: 0.1875
+          depth: 6
+          face_width: 9.942231501812277
+          gear_mod: 0.75
+          gear_spin: 0
+          mate_teeth: 40
+          pressure_angle: 20
+          shaft_diam: 0
+          teeth: 40
+          underside_angle: 45
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        shape: raw_scad
+        source: "include <C:/gh/oomlout_oobb_version_5/components/github_belfry_bosl2_gear/BOSL2/std.scad>\n\
+          include <C:/gh/oomlout_oobb_version_5/components/github_belfry_bosl2_gear/BOSL2/gears.scad>\n\
+          \nfunction oobb_gear_bevel_face_width(teeth=40,mate_teeth=40,gear_mod=1.5,depth=9,clearance=0.375)\
+          \ =\n    let(delta=atan(teeth/mate_teeth),R=gear_mod*teeth/2/sin(delta),d=gear_mod+clearance)\n\
+          \    (depth+(gear_mod+d)*sin(delta))/(cos(delta)+d*sin(delta)/R)+0.2;\n\n\
+          // Measure the outer heel separately so the whole visible side is bevelled.\n\
+          // This also gives callers a common reference for positioning centered STLs.\n\
+          function oobb_gear_bevel_base_z(teeth=40,mate_teeth=40,gear_mod=1.5,\n \
+          \   pressure_angle=20,backlash=0.2,clearance=0.375,gear_spin=0) =\n    let(heel=bevel_gear(mod=gear_mod,teeth=teeth,mate_teeth=mate_teeth,\n\
+          \        shaft_angle=90,face_width=0.0001,backing=0,spiral=0,cutter_radius=0,\n\
+          \        pressure_angle=pressure_angle,backlash=backlash,clearance=clearance,\n\
+          \        gear_spin=gear_spin,anchor=\"pitchbase\"))\n    pointlist_bounds(heel[0])[1].z;\n\
+          \nmodule oobb_gear_bevel_raw(teeth=40,mate_teeth=40,gear_mod=1.5,depth=9,\n\
+          \    face_width=undef,shaft_diam=0,pressure_angle=20,backlash=0.2,\n   \
+          \ clearance=0.375,gear_spin=0,anchor=\"center\",base_chamfer=undef,underside_angle=45)\
+          \ {\n    fw=is_undef(face_width) ? oobb_gear_bevel_face_width(teeth,mate_teeth,gear_mod,depth,clearance)\
+          \ : face_width;\n    chamfer=is_undef(base_chamfer) ? gear_mod*8/15 : base_chamfer;\n\
+          \    bare=bevel_gear(mod=gear_mod,teeth=teeth,mate_teeth=mate_teeth,\n \
+          \       shaft_angle=90,face_width=fw,backing=0,spiral=0,cutter_radius=0,\n\
+          \        pressure_angle=pressure_angle,backlash=backlash,clearance=clearance,\n\
+          \        gear_spin=gear_spin,anchor=\"pitchbase\");\n    base=oobb_gear_bevel_base_z(teeth,mate_teeth,gear_mod,\n\
+          \        pressure_angle,backlash,clearance,gear_spin);\n    delta=atan(teeth/mate_teeth);\n\
+          \    apex=gear_mod*teeth/2/tan(delta);\n    shift=anchor==\"center\" ? -base-depth/2\n\
+          \         : anchor==\"bottom\" ? -base\n         : anchor==\"apex\" ? -apex\
+          \ : 0;\n    extent=2*(gear_mod*teeth+depth);\n    foot=projection(bare,cut=true,z=base+0.0001);\n\
+          \    root_radius=min([for(p=foot[0]) norm(p)]);\n    bed_radius=root_radius-chamfer;\n\
+          \    assert(bed_radius>shaft_diam/2,\"Underside ramp leaves no bed footprint\
+          \ around the shaft\");\n    translate([0,0,shift])\n      difference() {\n\
+          \        intersection() {\n            vnf_polyhedron(bare,convexity=12);\n\
+          \            translate([-extent,-extent,base]) cube([2*extent,2*extent,depth]);\n\
+          \            // Remove the material below a true radial ramp. The teeth\
+          \ start\n            // above the bed, while the central body stays directly\
+          \ on it.\n            translate([0,0,base])\n                cylinder(r1=bed_radius,r2=bed_radius+depth/tan(underside_angle),\n\
+          \                    h=depth,$fn=max($fn,teeth*4));\n        }\n       \
+          \ if(shaft_diam>0) cylinder(d=shaft_diam,h=4*(depth+apex),center=true);\n\
+          \      }\n}\n"
+        type: positive
+    - - backlash: 0.15
+        depth: 8
+        diameter: 30.0
+        h: 8
+        inclusion: laser
+        module: 0.75
+        pos:
+        - 0
+        - 0
+        - -4.0
+        pressure_angle: 20
+        r: 1.5
+        rot:
+        - 0
+        - 0
+        - 0
+        shape: cylinder
+        type: negative
+      - backlash: 0.15
+        depth: 8
+        diameter: 30.0
+        h: 8
+        inclusion: 3dpr
+        module: 0.75
+        pos:
+        - 0
+        - 0
+        - -4.0
+        pressure_angle: 20
+        r: 1.8
+        rot:
+        - 0
+        - 0
+        - 0
+        shape: cylinder
+        type: negative
+      - backlash: 0.15
+        depth: 8
+        diameter: 30.0
+        h: 8
+        inclusion: 'true'
+        module: 0.75
+        pos:
+        - 0
+        - 0
+        - -4.0
+        pressure_angle: 20
+        r: 1.5
+        rot:
+        - 0
+        - 0
+        - 0
+        shape: cylinder
+        type: negative
+    pos:
+    - 0
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: p
+  components_objects:
+  - anchor: center
+    backlash: 0.15
+    base_chamfer: 0.4
+    bevel_profile: flat_top_ramped_underside
+    cone_distance: 21.213203435596423
+    depth: 6
+    diameter: 30.0
+    diameter_outer: 31.060660171779823
+    diameter_root: 28.674174785275223
+    face_width: 9.942231501812277
+    filter: ''
+    generate_stl: false
+    mate_teeth: 40
+    mod: 0.75
+    modes:
+    - 3dpr
+    module: 0.75
+    navigation: false
+    oobb_name: gear_little_bevel_style
+    oomp_description_extra: 6_depth
+    oomp_description_main: gear_little_bevel_style_30_0_diameter
+    oomp_mode: project
+    oomp_run: false
+    overwrite: true
+    pitch_angle: 45
+    pos:
+    - 0
+    - 0
+    - 0
+    pressure_angle: 20
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    scale: little
+    shaft_angle: 90
+    shaft_diam: 0
+    shape: oobb_gear_bevel
+    style: bevel
+    teeth: 40
+    typ: fast
+    type: positive
+    underside_angle: 45
+  - backlash: 0.15
+    base_chamfer: 0.4
+    bevel_profile: flat_top_ramped_underside
+    cone_distance: 21.213203435596423
+    depth: 8
+    diameter: 30.0
+    diameter_outer: 31.060660171779823
+    diameter_root: 28.674174785275223
+    face_width: 9.942231501812277
+    filter: ''
+    generate_stl: false
+    mate_teeth: 40
+    modes:
+    - 3dpr
+    module: 0.75
+    navigation: false
+    oobb_name: gear_little_bevel_style
+    oomp_description_extra: 6_depth
+    oomp_description_main: gear_little_bevel_style_30_0_diameter
+    oomp_mode: project
+    oomp_run: false
+    overwrite: true
+    pitch_angle: 45
+    pos:
+    - 0
+    - 0
+    - -4.0
+    pressure_angle: 20
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    scale: little
+    shaft_angle: 90
+    shape: oobb_hole
+    style: bevel
+    teeth: 40
+    typ: fast
+    type: negative
+    underside_angle: 45
+  components_string:
+  - oobb_gear_bevel_shape_positive_type_6_depth_fast_typ_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_false_oomp_run_false_generate_stl_project_oomp_mode_0.15_backlash_0.4_base_chamfer_flat_top_ramped_underside_bevel_profile_21.213203435596423_cone_distance_30.0_diameter_31.060660171779823_diameter_outer_28.674174785275223_diameter_root_9.942231501812277_face_width_40_mate_teeth_0.75_module_gear_little_bevel_style_oobb_name_6_depth_oomp_description_extra_gear_little_bevel_style_30_0_diameter_oomp_description_main_45_pitch_angle_20_pressure_angle_little_scale_90_shaft_angle_bevel_style_40_teeth_45_underside_angle_0.75_mod_0_shaft_diam_center_anchor_0_0_0_rot
+  - oobb_hole_shape_negative_type_m3_radius_name_8_depth_0_0_-4.0_pos_fast_typ_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_false_oomp_run_false_generate_stl_project_oomp_mode_0.15_backlash_0.4_base_chamfer_flat_top_ramped_underside_bevel_profile_21.213203435596423_cone_distance_30.0_diameter_31.060660171779823_diameter_outer_28.674174785275223_diameter_root_9.942231501812277_face_width_40_mate_teeth_0.75_module_gear_little_bevel_style_oobb_name_6_depth_oomp_description_extra_gear_little_bevel_style_30_0_diameter_oomp_description_main_45_pitch_angle_20_pressure_angle_little_scale_90_shaft_angle_bevel_style_40_teeth_45_underside_angle_0_0_0_rot
+  cone_distance: 21.213203435596423
+  depth: 6
+  description: C:\gh\oomlout oobb gear version 5 gear little bevel style 0x0x0
+  description_extra: 6_depth
+  description_main: 30_0_diameter
+  diameter: 30.0
+  diameter_outer: 31.060660171779823
+  diameter_root: 28.674174785275223
+  directory: parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+  face_width: 9.942231501812277
+  id: oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+  id_oobb: oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth
+  kwargs:
+    backlash: 0.15
+    base_chamfer: 0.4
+    bevel_profile: flat_top_ramped_underside
+    cone_distance: 21.213203435596423
+    depth: 6
+    diameter: 30.0
+    diameter_outer: 31.060660171779823
+    diameter_root: 28.674174785275223
+    face_width: 9.942231501812277
+    filter: ''
+    generate_stl: false
+    mate_teeth: 40
+    modes:
+    - 3dpr
+    module: 0.75
+    navigation: false
+    oobb_name: gear_little_bevel_style
+    oomp_description_extra: 6_depth
+    oomp_description_main: gear_little_bevel_style_30_0_diameter
+    oomp_mode: project
+    oomp_run: false
+    overwrite: true
+    pitch_angle: 45
+    pressure_angle: 20
+    save_type: none
+    scale: little
+    shaft_angle: 90
+    style: bevel
+    teeth: 40
+    typ: fast
+    type: C:\gh\oomlout_oobb_gear_version_5_gear_little_bevel_style
+    underside_angle: 45
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/C:\gh\oomlout_oobb_gear_version_5_gear_little_bevel_style/30_0_diameter/6_depth/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/_C:\gh\oomlout_oobb_gear_version_5_gear_little_bevel_style_30d0_06_nm_gear_little_bevel_style
+  manufacturer: ''
+  mate_teeth: 40
+  module: 0.75
+  name: Oobb Part Gear Little Scale 2 Diameter 40 Teeth Bevel Style 6 Mm Depth
+  name_proper: Oobb Part Gear Little Scale 2 Diameter 40 Teeth Bevel Style 6 Mm Depth
+  name_short: C:\Gh\Oomlout Oobb Gear Version 5 Gear
+  name_text: Oobb Part C:\Gh\Oomlout Oobb Gear Version 5 Gear Little Bevel Style 30
+    0 Diameter 6 Depth
+  notes: Straight 1:1 bevel pair. Mate with identical scale, tooth count and depth.
+    Shared pitch-cone apex; see examples/bevel_gear_90_degree_pair.scad.
+  oobb_details:
+    backlash: 0.15
+    base_chamfer: 0.4
+    bevel_profile: flat_top_ramped_underside
+    cone_distance: 21.213203435596423
+    depth: 6
+    diameter: 30.0
+    diameter_outer: 31.060660171779823
+    diameter_root: 28.674174785275223
+    face_width: 9.942231501812277
+    mate_teeth: 40
+    module: 0.75
+    oobb_name: gear_little_bevel_style
+    pitch_angle: 45
+    pressure_angle: 20
+    scale: little
+    shaft_angle: 90
+    style: bevel
+    teeth: 40
+    underside_angle: 45
+  oobb_name: gear_little_bevel_style
+  part_number: ''
+  pitch_angle: 45
+  pressure_angle: 20
+  project_name: C:\gh\oomlout_oobb_gear_version_5
+  scale: little
+  shaft_angle: 90
+  short_name: ''
+  size: C:\gh\oomlout_oobb_gear_version_5_gear_little_bevel_style
+  style: bevel
+  taxonomy_1: oobb
+  taxonomy_10: ''
+  taxonomy_11: ''
+  taxonomy_12: ''
+  taxonomy_13: ''
+  taxonomy_14: ''
+  taxonomy_15: ''
+  taxonomy_2: part
+  taxonomy_3: gear
+  taxonomy_4: little_scale
+  taxonomy_5: 2_diameter
+  taxonomy_6: 40_teeth
+  taxonomy_7: bevel_style
+  taxonomy_8: 6_mm_depth
+  taxonomy_9: ''
+  teeth: 40
+  type: part
+  underside_angle: 45
+underside_angle: 45

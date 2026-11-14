@@ -1,0 +1,905 @@
+{
+  "schema": 1,
+  "renders": [
+    {
+      "id": "oobb_part_gear_big_scale_1_diameter_10_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_1_diameter_10_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "901e5f61812ef41d524ba1952dd5d30b675ec2f3ba77f8f3f6217848b4053d69",
+      "image": "parts/oobb_part_gear_big_scale_1_diameter_10_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        18.243,
+        19.084,
+        6.0
+      ],
+      "key": "daf1dacaaa2460953cfc9428",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 1 Diameter 10 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "9c63bada34115d1e9f52b0a93dbd44f9b48aeafab2f77cab89daeae02b4bd131"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_2_diameter_20_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "c168f5baf204f186367a989f76cb33a28cfa3cc6b0a2ab462abf08c9e7a5c6ff",
+      "image": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        26.551,
+        26.551,
+        6.0
+      ],
+      "key": "6afd375e19e6130d1e145326",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 2 Diameter 20 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "56e1b06f2d482e78bfa830a02a5eec7aa67cad0ca0b27791395e02af880455e4"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_2_diameter_20_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "156e55ad01b79a2c16d175204ac9377f7d9e0988d556d8be4f1546ed86153e1f",
+      "image": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        85.99,
+        32.99,
+        4.5
+      ],
+      "key": "7f9229c3c79e22cc4b5b3ea8",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 2 Diameter 20 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "bc111becffee03beba205630f17963bc38cd807d3a1a8795d8dd2bd7798a2a1f"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_2_diameter_20_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "ccfb3d255c08a2727583efbcb4491c953b16e30a409426e78ad0aaa1ec04da15",
+      "image": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        32.99,
+        32.99,
+        6.0
+      ],
+      "key": "044a2ac76b63100a085c7fae",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 2 Diameter 20 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "17dd21506554b9e86a19093831dca2c8eab6359396a5d067b13932e47778090c"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_2_diameter_20_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "4464e61af055f6581896a1833a41ae46f19d5d2e8811fd8474ee37cb2c9d1e64",
+      "image": "parts/oobb_part_gear_big_scale_2_diameter_20_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        32.99,
+        32.99,
+        6.0
+      ],
+      "key": "a279b7b8d2c8ce8b7e2750cc",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 2 Diameter 20 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "53b008180014ff21b122c15873a4fb08f0abdef2429ad3cc140b2445efaf15dc"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "d09ad246de4a3cbee409582babf5f4b4c4c7d799c457dad1c90277c6ef5dfc9c",
+      "image": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        41.391,
+        41.545,
+        6.0
+      ],
+      "key": "bf45bc68f390f1de34955ed1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 3 Diameter 30 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "a56adde431e619b4bf1443022522a31b5d2a0ddc1921cdb6697fce54a2f1744b"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "a73547d2206bf8c2dcf9cffbeffffc85c94150980ea7afbbcdcf5f5f7d375ab4",
+      "image": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        41.393,
+        41.546,
+        9.0
+      ],
+      "key": "c5ea90da0049b5ed9603f957",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 3 Diameter 30 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "61faefeb32c5b34d81f1d52d8349654b8ff04b8305603fd254bfa1b84346f8d1"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "e7dce845b356077b4cf27a44c76f9097d868f979ce096d8c7e8162ac5605785a",
+      "image": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        115.822,
+        47.992,
+        4.5
+      ],
+      "key": "6a7277e2904f3b1a0f2ff3ef",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 3 Diameter 30 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "d300886d1b16c28ac4bf530b9eacb7935c79c42d80309cb169e99e0c0b4affb3"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "84744979ae82acdd8ada7db72be1c282414f839036ba52afb24d1a62994b2cd3",
+      "image": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        47.822,
+        47.992,
+        6.0
+      ],
+      "key": "14ebd16b3dca5533b09ba990",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 3 Diameter 30 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "a3672ebaee85eed85152083b32b67788761ef5a93de89869cd751ced08394a84"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "08c192073ff2f89032dc8c97a81e363535adf4e421433274fb33ef2d65ff82ea",
+      "image": "parts/oobb_part_gear_big_scale_3_diameter_30_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        47.822,
+        47.992,
+        6.0
+      ],
+      "key": "17a0261c6d3362f7f0fe1272",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 3 Diameter 30 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "d6e86e25a8e4b631e9e213ebae7971483707e4b58fed21cf9a164b8dc7c1b02c"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "aa0f3458c0f959c94b39c8019da141cb34963cb04ca03fe662103476daf2eff8",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        56.542,
+        56.542,
+        6.0
+      ],
+      "key": "601da5c16e2d0280a1ed2a1e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "92d26be842305c071725e6c3f4d315821357d569ff6bfb53a885f22d460754a3"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "f74fcda5aa213563e524efbf656663e884c8ecfdabd800819efed3aa79f9b125",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        56.543,
+        56.543,
+        9.0
+      ],
+      "key": "f1e1530216d92f1c24fbdf97",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "b94d7e39abb6913aaa89d180c58fb5ddef126726cd1ca8622f98fe4be9e20b2e"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr.stl",
+      "source_sha256": "70f9da4769f11357fa590bf8de4e9d8c3773607bbc2c572207666fa97bf8e12d",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr_presentation.png",
+      "dimensions_mm": [
+        145.993,
+        62.993,
+        4.5
+      ],
+      "key": "343dd930bdf2f2045f57dd07",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Clam Shell Bearing Style 9 Mm Depth 606 Bearing \u2014 Print layout",
+      "image_sha256": "6a5a99c7d30f7182cf58a4afea87e64adc65c5163b26fadfe077c890aecf24cd"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "37694320ef4d97849fb55d59f594bc9c2a1a7bef812c72d405ae8939ce7069f3",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        145.993,
+        62.993,
+        4.5
+      ],
+      "key": "41ca675099c213c4e820dfd1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "7bca51edce34c72d6933b9ecf93ef7bf850dae2fe565723675fc996da005aad9"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "b4f8d4bf004e774609edf50e7d6d8f1890c3da9be6c78c2deec162caf7f7af27",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        62.993,
+        62.993,
+        6.0
+      ],
+      "key": "1883222b2e52561eba333643",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "71c1e165bca12ea85dcfba7b6b34b24953a565b3c209237bae3b290f083f101c"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "b55891c878ae804fa489a6057985304c470e9a2c21fd2724d9b96ea2ea68af72",
+      "image": "parts/oobb_part_gear_big_scale_4_diameter_40_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        62.993,
+        62.993,
+        6.0
+      ],
+      "key": "9eccd5267b19da9125611033",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 4 Diameter 40 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "b3d25a6a3c697944585b8e71399987998d3254f86e5dea589e484e6cabb79952"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "168cf6a9b61e920e2654eaa4b8199b3cf74ceb298fc08eeef2d5b6efb3ccf21f",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        71.451,
+        71.542,
+        6.0
+      ],
+      "key": "3ce7eb5ead817533b51ba728",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "e76377f3fc6427446d4dbf27f7b674c7c2df9c1b6cd917a353b2f38da706fbfe"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "3452105e30957576189562543cf35a5bbfa62719f43ceaef91fe8c4b013160d5",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        71.452,
+        71.543,
+        9.0
+      ],
+      "key": "d3f19a7ec94ef03095b8abfa",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "6fe1aa93892fa79037e5f1130429ad85932a81a0178479f49ab636bfbdfb96fc"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr.stl",
+      "source_sha256": "fd52fd66410e0d43c1466aaa61c81af77fafe0a4f3e943369e1769a2271babf2",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr_presentation.png",
+      "dimensions_mm": [
+        175.9,
+        77.994,
+        4.5
+      ],
+      "key": "741749982f4d189c85e2c114",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Clam Shell Bearing Style 9 Mm Depth 606 Bearing \u2014 Print layout",
+      "image_sha256": "1d313cc68b3fa3d4fed5152030b975f9459e5238abee5402faf2215197f60450"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing/3dpr.stl",
+      "source_sha256": "02370a65e142723a6be719bc5fd08e67ba6bb758967d7b60cfb59bd916e33ff5",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing/3dpr_presentation.png",
+      "dimensions_mm": [
+        175.9,
+        77.994,
+        4.5
+      ],
+      "key": "5f6ce3947e65f1e32d7123c2",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Clam Shell Bearing Style 9 Mm Depth 6704 Bearing \u2014 Print layout",
+      "image_sha256": "263fcc389138262956b6b6535a044137a488c6ac7040b54a62286a2b03eab64a"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "4d6b0abb34d1232cfd3a1faca50125cf779a55557dbfebba101cb2fcb325a4f8",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        175.9,
+        77.994,
+        4.5
+      ],
+      "key": "6430b9ab6a08bf9b04d3982e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "d1ad5ae711de6ef8be170515c88571a29aa81b30ca7efc239e786bf355b901cb"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "c43ae22eaf5006be09a8b4fbd1722c0aa346c171c604d9cdbedcb1865dff5a5a",
+      "image": "parts/oobb_part_gear_big_scale_5_diameter_50_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        77.9,
+        77.994,
+        6.0
+      ],
+      "key": "880fa71ebc7826254c3fcbb7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 5 Diameter 50 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "8e8667b6c5f926ee9fe62ca78ed9df9b0ff8b2d94ac4219948a11db2f1f1a1a4"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "898fa31c3096817ca1094e97691c8bdc090826c45b41c558ed72cdd40887490e",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        86.543,
+        86.543,
+        6.0
+      ],
+      "key": "2a53f5508a336591522c49bf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "c05a38f986e2c3d3f431c0529b0f25859a433d14b0072289218f964f27d121a7"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "26260e0311dea240c2f725779313a07806c08e3c81e6583130b99408feac8d17",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        86.543,
+        86.543,
+        9.0
+      ],
+      "key": "972fe8f8305bf80dee25fbbb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "c6990041f8c9771138cc6dce4bf023b8e5309d6cb7f4999e82316d95b4449b32"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr.stl",
+      "source_sha256": "152dd0fb61f54d0739d71a3cee1b1f39bf81019020e0a2bbebfea90b1a22d77f",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_606_bearing/3dpr_presentation.png",
+      "dimensions_mm": [
+        205.995,
+        92.995,
+        4.5
+      ],
+      "key": "6bb8547c72bb33027d0bf24f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Clam Shell Bearing Style 9 Mm Depth 606 Bearing \u2014 Print layout",
+      "image_sha256": "de49167465bb226906921b2d099ddebc5aeb95f2586994c905eb94488fa50174"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing/3dpr.stl",
+      "source_sha256": "4a970d079bbe5f6e43c0f14bec4486d8d0344a5da3b24b65328b150e0c26838e",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_bearing_style_9_mm_depth_6704_bearing/3dpr_presentation.png",
+      "dimensions_mm": [
+        205.995,
+        92.995,
+        4.5
+      ],
+      "key": "d0c4b2886796cfa2ca789945",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Clam Shell Bearing Style 9 Mm Depth 6704 Bearing \u2014 Print layout",
+      "image_sha256": "6a3b87291635ec65d16dfec3950dc1f6c82d04516109f60d3c4ef0ca15f64180"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "88665a15d4af2e055b34fe5fb20bfa3c588ed8b6a1c2961c26fc7d32a8f4a749",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        205.995,
+        92.995,
+        4.5
+      ],
+      "key": "123cabfa979723f16c8c3296",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "48118eba0f5f3fce02a2aee8e6111a6a8a197bf3d1668cea0b3ca58800e2c0d3"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "6387a0df783c324ac16fe9a772e66c6e2508305bd0f20a2173818c6ea4a92105",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        92.995,
+        92.995,
+        6.0
+      ],
+      "key": "6f334664d29548392fdf2a04",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "83b0577b03498fcc79b7deee414f9d5b93b04b19d1ff5610034a2ebb2a7bbafe"
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "6a98899c5a6711fac86058591e9cf9ff4331a7275fabdc961b3cc470e43714de",
+      "image": "parts/oobb_part_gear_big_scale_6_diameter_60_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        92.995,
+        92.995,
+        6.0
+      ],
+      "key": "7c5d7d974c4523a373100bd5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Big Scale 6 Diameter 60 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "7266a2e949e2e1e01cfc0f952e0320a7bbc3de948b4550ef7452371d9d5047ac"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_0_5_diameter_10_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_0_5_diameter_10_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "790656a0cadb62393b8903e2be2e60aca780810f14fce34e7ff2fc099e2f8f7c",
+      "image": "parts/oobb_part_gear_little_scale_0_5_diameter_10_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        9.055,
+        9.473,
+        6.0
+      ],
+      "key": "8a2d93182c4612eaa408984f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 0 5 Diameter 10 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "754cd83764c41044fd97f540631965be60e5a362706e49e524edf105d20e50f4"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_5_diameter_30_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "758a3fa142aae39449edb3b8affadc3ae96caf2ef5a16f93ee77895f60d1ec0f",
+      "image": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        20.695,
+        20.775,
+        6.0
+      ],
+      "key": "fbd309d8a5ea9dc4667a1403",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 1 5 Diameter 30 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "d29f1cce311cf51463987b202e590650a38ce6b3481afc302cec544bdc923aee"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_5_diameter_30_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "a03a51324556d1ebee8594a636a58702011642afb8b9a0ec580bc2564fe34e57",
+      "image": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        67.906,
+        23.997,
+        4.5
+      ],
+      "key": "26cc73e9c9f7f434018eb6d6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 1 5 Diameter 30 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "cf053f92bd5b145633a8da20abfbd1313b86173013ab4f140a4d4878415dc74f"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_5_diameter_30_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "3403682ab35b71ced503997e290c393410ab8414b8b6752b4c93c33e728af47b",
+      "image": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        23.906,
+        23.997,
+        6.0
+      ],
+      "key": "735015167bbbc559f0bce4f1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 1 5 Diameter 30 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "fb098d88ffef8bac38fc0f87dce3b0d9e7029b110c5418f558009df01b362c83"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_5_diameter_30_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "91c2da77ec9670482d96c2827c7ac3bad1d7a83aeea1b29aa6bb2da1e3bec6d1",
+      "image": "parts/oobb_part_gear_little_scale_1_5_diameter_30_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        23.906,
+        23.997,
+        6.0
+      ],
+      "key": "073ddae9926e0147dc948f4c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 1 5 Diameter 30 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "25d1e71412983257afa8a46848e9375b6c611519e92a98f6e32de61e63b36710"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_diameter_20_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_1_diameter_20_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "62c2fccd0a82f10dd72a5a1edeb667eb9a3970ab781b2c9916f66962516a7b5e",
+      "image": "parts/oobb_part_gear_little_scale_1_diameter_20_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        16.496,
+        16.496,
+        6.0
+      ],
+      "key": "4a72811cc09d1bfadef66cd3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 1 Diameter 20 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "6b55e33905165286018bde65e78a205d5a4dcaecdbb2cb8973484e0652b488f8"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "df80ef821b7d931f9248d593d43ff47182c2d6cc9e64d8ad23ee8fd68e893ea2",
+      "image": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        35.724,
+        35.772,
+        6.0
+      ],
+      "key": "5799231ce45dad3c30620027",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 5 Diameter 50 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "0bebd327831f29907c2ed06d36c1a2f15923ae64e920c6e2734eef258a473ebc"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "8fc32963f1f3174230bdae5734020aa27893e11be79baf40f937b1acb327f0f5",
+      "image": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        35.725,
+        35.773,
+        9.0
+      ],
+      "key": "78fa6f96b8710a12eff6ecc3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 5 Diameter 50 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "f225ea53d7f33237391dceb968748285bcd544d8eb01bb508cb1f5977610d8cb"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "ff2b78e194d9dcc36349aaa7b5762ef820261e21b3fb97016f4401cf8151691a",
+      "image": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        97.947,
+        38.998,
+        4.5
+      ],
+      "key": "7bb52a799b034736daa7109a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 5 Diameter 50 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "d15284eabe5b16461572430ac7c77aa8c8964a7c0303464393eb16b4e702ac22"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "bbf95494be1d9245bab744609de9d3ae3b679196a20b4150e3a742f55738fc13",
+      "image": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        38.947,
+        38.998,
+        6.0
+      ],
+      "key": "f75f81bda3f45cd8ae6801b8",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 5 Diameter 50 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "8d1e58f8c056916bd09d9fd3378b1997c8f020af4c87e7e74caed8437d2ba397"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "27c34092da78defdf6f3c3c5a91988af3e7530385a4417aa9ce62ef98689ce63",
+      "image": "parts/oobb_part_gear_little_scale_2_5_diameter_50_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        38.947,
+        38.998,
+        6.0
+      ],
+      "key": "4e469d8f31c0b1ecfb6883f6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 5 Diameter 50 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "409c65b93d3256fbfec7ba67de16b511e15a0e8a8e1f223516b36e4e02c71dc3"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "374c092298bd5e5b7c74c5492aa45bc0852671a30b36ac5c2a6d41d847e5f873",
+      "image": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        28.273,
+        28.273,
+        6.0
+      ],
+      "key": "4adbd155cce5768ed2653b48",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 Diameter 40 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "0cdfece4b00b3658940f9ed871a87ef97269ce5e41397e9824d82fbfeb34926b"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "b6d6b29cbd957215e037dfc298c8e7ef421b735f311e222da3525f0701ca36f3",
+      "image": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        28.273,
+        28.273,
+        9.0
+      ],
+      "key": "5993bd491e0c5812dd41862a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 Diameter 40 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "3a890aa2eff90b636259706f8ec92ebba71ced2d04330622d5ce925dab9d8aa7"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "4817bb5661d4ebb107a3f77093d5173e510bdf303b531ba75dd95995724fb49f",
+      "image": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        82.997,
+        31.497,
+        4.5
+      ],
+      "key": "c917a68a005579c830cb7c96",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 Diameter 40 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "3b37b70bfa94defc210bfd8912d6f16a33ab6c13251d5cf2e6c823c761b9565f"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "59f1661aa30e194c696b54a9db8e5e4ce92190097f34acfa3095729716ba4041",
+      "image": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        31.497,
+        31.497,
+        6.0
+      ],
+      "key": "1af86573934b8703f5505578",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 Diameter 40 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "a8c5ba52850cc11bb8711e641ea6d336fe5e262ac152dbf99138c9b26e953478"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "d9fb784e86abf51ed4de7275b5032c4133248376211aea24849b8e52daa242fb",
+      "image": "parts/oobb_part_gear_little_scale_2_diameter_40_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        31.497,
+        31.497,
+        6.0
+      ],
+      "key": "436a83a79c2913ba9932e91b",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 2 Diameter 40 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "cdc9f2bbda7c5bb922e436702d5e508bbc0a943186680e7b2394351ee2137d3d"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "8606fc77a3ee5c93e86390edfce0ae93edc06a5db68c10cd57987d5cf456f0f5",
+      "image": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        43.272,
+        43.272,
+        6.0
+      ],
+      "key": "aa0158cd40968db11a9a1767",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 3 Diameter 60 Teeth Bevel Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "836a7000378e468679292a3e97f622ca1bd6a5baa22bb5a56265d91dd3695211"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "e6c5fc5be54c6d5937cc0c46d51b39744498f28d5e5cef92228c378925132f92",
+      "image": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        43.272,
+        43.272,
+        9.0
+      ],
+      "key": "cceb3995ec5270ded70affd7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 3 Diameter 60 Teeth Bevel Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "70e5b596b0d49be3c9e1fe6e427db31cfa30c33b3dc96b638de8a7bb2e48ea6b"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_clam_shell_style_9_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_clam_shell_style_9_mm_depth/3dpr.stl",
+      "source_sha256": "1e6bc94975eab1584c953f13a6d99c1590aa3193340e1a47a25ab44771e436af",
+      "image": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_clam_shell_style_9_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        112.998,
+        46.498,
+        4.5
+      ],
+      "key": "dee672a76c1c7a50eac186af",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 3 Diameter 60 Teeth Clam Shell Style 9 Mm Depth \u2014 Print layout",
+      "image_sha256": "65b2b9a922b15654472f1940506594dc9316b5ba6d461236b03fda49e41c3038"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_coupler_flange_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_coupler_flange_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "dce2c448b55c9f30e45de3a2d726f5414a7cad04e6826f67aa360db00d10bfa7",
+      "image": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_coupler_flange_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        46.498,
+        46.498,
+        6.0
+      ],
+      "key": "4aaaa008a77297efdcf675d7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 3 Diameter 60 Teeth Coupler Flange Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "f4a20f960ffa294ac95b7114c024c4491b307045a6b1e9e103dbea7b731d2a22"
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_standard_style_6_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_standard_style_6_mm_depth/3dpr.stl",
+      "source_sha256": "96d37d9890f2394b851b8fbaf0db8294004b71ad25edd70d9469020eb3d43eed",
+      "image": "parts/oobb_part_gear_little_scale_3_diameter_60_teeth_standard_style_6_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        46.498,
+        46.498,
+        6.0
+      ],
+      "key": "5391cfba2dd3403ce49ba394",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Gear Little Scale 3 Diameter 60 Teeth Standard Style 6 Mm Depth \u2014 Print layout",
+      "image_sha256": "6cbe7c0e921c9e4c3949e28a0d8dac1697d88a3755a083abe612e80cf5d7e313"
+    }
+  ]
+}

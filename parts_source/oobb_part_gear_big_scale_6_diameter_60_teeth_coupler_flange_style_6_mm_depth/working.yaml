@@ -1,0 +1,35 @@
+depth: 6
+diameter: 90.0
+diameter_outer: 93.0
+diameter_root: 86.25
+module: 1.5
+oobb_details:
+  depth: 6
+  diameter: 90.0
+  diameter_outer: 93.0
+  diameter_root: 86.25
+  module: 1.5
+  oobb_name: gear_big_coupler_flange_style
+  pressure_angle: 20
+  scale: big
+  style: coupler_flange
+  teeth: 60
+pressure_angle: 20
+scale: big
+style: coupler_flange
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: gear
+taxonomy_4: big_scale
+taxonomy_5: 6_diameter
+taxonomy_6: 60_teeth
+taxonomy_7: coupler_flange_style
+taxonomy_8: 6_mm_depth
+taxonomy_9: ''
+teeth: 60

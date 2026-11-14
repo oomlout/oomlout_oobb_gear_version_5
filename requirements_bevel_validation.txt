@@ -1,0 +1,5 @@
+# Optional dependencies for bevel mesh validation and focused tests.
+# Generation uses the existing OOBB v5 environment and OpenSCAD installation.
+trimesh
+rtree
+pytest

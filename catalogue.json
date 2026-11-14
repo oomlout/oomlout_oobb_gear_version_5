@@ -1,0 +1,9 @@
+{
+  "title": "OOBB gears",
+  "summary": "Parametric OOBB gears in big and little scales, including standard, flange, clam-shell, bearing and bevel variants.",
+  "parts": "Choose the gear scale, tooth count, style and depth. The exported print layout may contain several components for a single variant.",
+  "assembly": "Use the selected variant\u2019s geometry and metadata to check the mating gear, shaft and bearing requirements. Existing component-specific fit and bevel examples remain available.",
+  "modes": [
+    "3dpr"
+  ]
+}

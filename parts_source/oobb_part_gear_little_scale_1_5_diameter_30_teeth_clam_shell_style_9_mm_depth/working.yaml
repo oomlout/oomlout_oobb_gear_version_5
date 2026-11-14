@@ -1,0 +1,35 @@
+depth: 9
+diameter: 22.5
+diameter_outer: 24.0
+diameter_root: 20.625
+module: 0.75
+oobb_details:
+  depth: 9
+  diameter: 22.5
+  diameter_outer: 24.0
+  diameter_root: 20.625
+  module: 0.75
+  oobb_name: gear_little_clam_shell_style
+  pressure_angle: 20
+  scale: little
+  style: clam_shell
+  teeth: 30
+pressure_angle: 20
+scale: little
+style: clam_shell
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: gear
+taxonomy_4: little_scale
+taxonomy_5: 1_5_diameter
+taxonomy_6: 30_teeth
+taxonomy_7: clam_shell_style
+taxonomy_8: 9_mm_depth
+taxonomy_9: ''
+teeth: 30

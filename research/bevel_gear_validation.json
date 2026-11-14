@@ -1,0 +1,485 @@
+{
+  "gear_count": 16,
+  "checks": [
+    {
+      "id": "oobb_part_gear_big_scale_2_diameter_20_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -13.275593757629395,
+          -13.275593757629395,
+          -3.0
+        ],
+        [
+          13.275593757629395,
+          13.275593757629395,
+          3.0
+        ]
+      ],
+      "volume_mm3": 1817.0312,
+      "bed_radius_mm": 10.8604,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0215,
+      "numerical_sliver_area_mm2": 0.0,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0619,
+      "outside_diameter_mm": 26.5512,
+      "outer_tip_height_mm": 2.3952,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -20.695507049560547,
+          -20.77234649658203,
+          -3.0
+        ],
+        [
+          20.695507049560547,
+          20.77234649658203,
+          3.0
+        ]
+      ],
+      "volume_mm3": 5490.46,
+      "bed_radius_mm": 18.2371,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0075,
+      "numerical_sliver_area_mm2": 0.0,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0996,
+      "outside_diameter_mm": 41.5447,
+      "outer_tip_height_mm": 2.5352,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -20.69672203063965,
+          -20.773143768310547,
+          -4.5
+        ],
+        [
+          20.69672203063965,
+          20.773143768310547,
+          4.5
+        ]
+      ],
+      "volume_mm3": 7058.7365,
+      "bed_radius_mm": 18.2386,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0041,
+      "numerical_sliver_area_mm2": 0.00021877730920941133,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0571,
+      "outside_diameter_mm": 41.5463,
+      "outer_tip_height_mm": 2.5181,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -28.2712345123291,
+          -28.2712345123291,
+          -3.0
+        ],
+        [
+          28.2712345123291,
+          28.2712345123291,
+          3.0
+        ]
+      ],
+      "volume_mm3": 10000.4004,
+      "bed_radius_mm": 25.6742,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.005,
+      "numerical_sliver_area_mm2": 0.0,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.1277,
+      "outside_diameter_mm": 56.5425,
+      "outer_tip_height_mm": 2.5971,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_4_diameter_40_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -28.271636962890625,
+          -28.271636962890625,
+          -4.5
+        ],
+        [
+          28.271636962890625,
+          28.271636962890625,
+          4.5
+        ]
+      ],
+      "volume_mm3": 15191.0502,
+      "bed_radius_mm": 25.675,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 44.961,
+      "numerical_sliver_area_mm2": 0.00011021658662825581,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0835,
+      "outside_diameter_mm": 56.5433,
+      "outer_tip_height_mm": 2.5721,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -35.72531509399414,
+          -35.771217346191406,
+          -3.0
+        ],
+        [
+          35.72531509399414,
+          35.771217346191406,
+          3.0
+        ]
+      ],
+      "volume_mm3": 16625.6305,
+      "bed_radius_mm": 33.1369,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0025,
+      "numerical_sliver_area_mm2": 0.0,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.1235,
+      "outside_diameter_mm": 71.5424,
+      "outer_tip_height_mm": 2.6343,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -35.725833892822266,
+          -35.771480560302734,
+          -4.5
+        ],
+        [
+          35.725833892822266,
+          35.771480560302734,
+          4.5
+        ]
+      ],
+      "volume_mm3": 24938.997,
+      "bed_radius_mm": 33.1374,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 44.9642,
+      "numerical_sliver_area_mm2": 8.683363826702268e-05,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0926,
+      "outside_diameter_mm": 71.543,
+      "outer_tip_height_mm": 2.6341,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -43.27136993408203,
+          -43.27136993408203,
+          -3.0
+        ],
+        [
+          43.27136993408203,
+          43.27136993408203,
+          3.0
+        ]
+      ],
+      "volume_mm3": 24882.9368,
+      "bed_radius_mm": 40.6121,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0013,
+      "numerical_sliver_area_mm2": 2.4770997697487473e-08,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.143,
+      "outside_diameter_mm": 86.5427,
+      "outer_tip_height_mm": 2.6593,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_big_scale_6_diameter_60_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -43.27156066894531,
+          -43.27156066894531,
+          -4.5
+        ],
+        [
+          43.27156066894531,
+          43.27156066894531,
+          4.5
+        ]
+      ],
+      "volume_mm3": 36769.1268,
+      "bed_radius_mm": 40.6125,
+      "bed_inset_mm": 0.8,
+      "min_underside_angle_deg": 45.0006,
+      "numerical_sliver_area_mm2": 7.041385107769957e-05,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.1018,
+      "outside_diameter_mm": 86.5431,
+      "outer_tip_height_mm": 2.6591,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_1_5_diameter_30_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -10.347270011901855,
+          -10.387385368347168,
+          -3.0
+        ],
+        [
+          10.347270011901855,
+          10.387385368347168,
+          3.0
+        ]
+      ],
+      "volume_mm3": 1034.3569,
+      "bed_radius_mm": 9.1207,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 45.0019,
+      "numerical_sliver_area_mm2": 0.00015899174411368865,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0304,
+      "outside_diameter_mm": 20.7748,
+      "outer_tip_height_mm": 1.2626,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -14.13633918762207,
+          -14.13633918762207,
+          -3.0
+        ],
+        [
+          14.13633918762207,
+          14.13633918762207,
+          3.0
+        ]
+      ],
+      "volume_mm3": 2346.2927,
+      "bed_radius_mm": 12.8383,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.9917,
+      "numerical_sliver_area_mm2": 0.00021436804061665237,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0517,
+      "outside_diameter_mm": 28.2727,
+      "outer_tip_height_mm": 1.291,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_diameter_40_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -14.13655948638916,
+          -14.13655948638916,
+          -4.5
+        ],
+        [
+          14.13655948638916,
+          14.13655948638916,
+          4.5
+        ]
+      ],
+      "volume_mm3": 2768.3368,
+      "bed_radius_mm": 12.8387,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.977,
+      "numerical_sliver_area_mm2": 0.00026564421469102396,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0128,
+      "outside_diameter_mm": 28.2731,
+      "outer_tip_height_mm": 1.2956,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -17.862123489379883,
+          -17.886127471923828,
+          -3.0
+        ],
+        [
+          17.862123489379883,
+          17.886127471923828,
+          3.0
+        ]
+      ],
+      "volume_mm3": 3942.9119,
+      "bed_radius_mm": 16.5693,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.9696,
+      "numerical_sliver_area_mm2": 0.00018375715305153612,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0648,
+      "outside_diameter_mm": 35.7723,
+      "outer_tip_height_mm": 1.308,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_2_5_diameter_50_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -17.862525939941406,
+          -17.886274337768555,
+          -4.5
+        ],
+        [
+          17.862525939941406,
+          17.886274337768555,
+          4.5
+        ]
+      ],
+      "volume_mm3": 5222.6794,
+      "bed_radius_mm": 16.5696,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.9845,
+      "numerical_sliver_area_mm2": 0.0003693625201916847,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0321,
+      "outside_diameter_mm": 35.7726,
+      "outer_tip_height_mm": 1.3126,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_6_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -21.636085510253906,
+          -21.636085510253906,
+          -3.0
+        ],
+        [
+          21.636085510253906,
+          21.636085510253906,
+          3.0
+        ]
+      ],
+      "volume_mm3": 6069.0146,
+      "bed_radius_mm": 20.3067,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.936,
+      "numerical_sliver_area_mm2": 0.00043558170650020127,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0731,
+      "outside_diameter_mm": 43.2722,
+      "outer_tip_height_mm": 1.3194,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    },
+    {
+      "id": "oobb_part_gear_little_scale_3_diameter_60_teeth_bevel_style_9_mm_depth",
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -21.63619613647461,
+          -21.63619613647461,
+          -4.5
+        ],
+        [
+          21.63619613647461,
+          21.63619613647461,
+          4.5
+        ]
+      ],
+      "volume_mm3": 8104.929,
+      "bed_radius_mm": 20.3069,
+      "bed_inset_mm": 0.4,
+      "min_underside_angle_deg": 44.9873,
+      "numerical_sliver_area_mm2": 0.00024123482958494843,
+      "profile": "flat_top_ramped_underside",
+      "circular_bed_footprint": true,
+      "near_contact_gap_mm": 0.0441,
+      "outside_diameter_mm": 43.2724,
+      "outer_tip_height_mm": 1.3241,
+      "motion_geometry": "printable_stl",
+      "motion_samples": 8,
+      "interference": false
+    }
+  ]
+}

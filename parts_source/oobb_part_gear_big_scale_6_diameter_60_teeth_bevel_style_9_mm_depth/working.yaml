@@ -1,0 +1,55 @@
+backlash: 0.2
+base_chamfer: 0.8
+bevel_profile: flat_top_ramped_underside
+cone_distance: 63.63961030678927
+depth: 9
+diameter: 90.0
+diameter_outer: 92.12132034355965
+diameter_root: 87.34834957055045
+face_width: 15.842063350245027
+mate_teeth: 60
+module: 1.5
+notes: Straight 1:1 bevel pair. Mate with identical scale, tooth count and depth.
+  Shared pitch-cone apex; see examples/bevel_gear_90_degree_pair.scad.
+oobb_details:
+  backlash: 0.2
+  base_chamfer: 0.8
+  bevel_profile: flat_top_ramped_underside
+  cone_distance: 63.63961030678927
+  depth: 9
+  diameter: 90.0
+  diameter_outer: 92.12132034355965
+  diameter_root: 87.34834957055045
+  face_width: 15.842063350245027
+  mate_teeth: 60
+  module: 1.5
+  oobb_name: gear_big_bevel_style
+  pitch_angle: 45
+  pressure_angle: 20
+  scale: big
+  shaft_angle: 90
+  style: bevel
+  teeth: 60
+  underside_angle: 45
+pitch_angle: 45
+pressure_angle: 20
+scale: big
+shaft_angle: 90
+style: bevel
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: gear
+taxonomy_4: big_scale
+taxonomy_5: 6_diameter
+taxonomy_6: 60_teeth
+taxonomy_7: bevel_style
+taxonomy_8: 9_mm_depth
+taxonomy_9: ''
+teeth: 60
+underside_angle: 45

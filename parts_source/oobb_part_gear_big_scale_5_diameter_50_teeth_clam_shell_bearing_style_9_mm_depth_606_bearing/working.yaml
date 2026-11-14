@@ -1,0 +1,37 @@
+bearing: '606'
+depth: 9
+diameter: 75.0
+diameter_outer: 78.0
+diameter_root: 71.25
+module: 1.5
+oobb_details:
+  bearing: '606'
+  depth: 9
+  diameter: 75.0
+  diameter_outer: 78.0
+  diameter_root: 71.25
+  module: 1.5
+  oobb_name: gear_big_clam_shell_bearing_style
+  pressure_angle: 20
+  scale: big
+  style: clam_shell_bearing
+  teeth: 50
+pressure_angle: 20
+scale: big
+style: clam_shell_bearing
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: gear
+taxonomy_4: big_scale
+taxonomy_5: 5_diameter
+taxonomy_6: 50_teeth
+taxonomy_7: clam_shell_bearing_style
+taxonomy_8: 9_mm_depth
+taxonomy_9: 606_bearing
+teeth: 50
